@@ -13,7 +13,7 @@ function Sectionourteam() {
         <div className="student-card">
           <Card src="./images/devansh.jpg" text="Devansh Oberoi" content="Chairperson"/>
           <Card src="./images/Karan.jpg" text="Karan Pandey" content="General Secretary"/>
-          <Card src="./images/aad.png" text="Aadya Bubber" content="WIE Chairperson"/>
+          <Card src="./images/aada.png" text="Aadya Bubber" content="WIE Chairperson"/>
         </div>
         <div className="student-card">
           <Card src="./images/Prince.jpg" text="Prince" content="Treasurer"/>
