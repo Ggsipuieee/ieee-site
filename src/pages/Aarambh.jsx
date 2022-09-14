@@ -29,7 +29,7 @@ function Aarambh() {
                   <div class="sp-con">
                     <div class="con">
                      <h2>Nilaksh Dureja</h2>
-                     <p>Fullstack Web Developer</p>
+                     <p>Fullstack Web Develope</p>
                     </div>
                   </div>
                 </div>
