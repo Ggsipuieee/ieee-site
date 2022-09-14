@@ -13,12 +13,12 @@ function Sectionourteam() {
         <div className="student-card">
           <Card src="./images/devansh.jpg" text="Devansh Oberoi" content="Chairperson"/>
           <Card src="./images/Karan.jpg" text="Karan Pandey" content="General Secretary"/>
-          <Card src="./images/Aadya.jpeg" text="Aadya Bubber" content="WIE Chairperson"/>
+          <Card src="./images/Aadya2.jpg" text="Aadya Bubber" content="WIE Chairperson"/>
         </div>
         <div className="student-card">
           <Card src="./images/Prince.jpg" text="Prince" content="Treasurer"/>
           <Card src="./images/Aakriti.jpg" text="Aakriti Saxena" content="WIE Vice Chairperson"/>
-          <Card src="./images/himanshu.jpeg" text="Himanshu Sisodia" content="WIE Vice Chairperson"/>
+          <Card src="./images/himanshu.jpeg" text="Himanshu Sisodia" content="Vice Chairperson"/>
         </div>
         <Heading text="Branch Mentors" class="aboutourteam"/>
         <div className="student-card">
