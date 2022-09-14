@@ -1,5 +1,4 @@
 import React from "react";
-import Heading from "../small compo/Heading"
 import Image from "../small compo/Image"
 import Paragraph from "../small compo/Paragraph"
 

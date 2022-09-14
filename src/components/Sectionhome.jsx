@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "../small compo/Image"
 import Heading from "../small compo/Heading"
 
 function Sectionhome() {
