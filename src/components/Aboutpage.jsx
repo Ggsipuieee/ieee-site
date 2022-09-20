@@ -39,7 +39,7 @@ return(
 
       <div class="information-card">
         <div class="information-card_header">
-        <i class="fa-solid fa-users-medical ieee-icons"></i>
+        <i class="fa-solid fa-users-viewfinder fa-3x"></i>
           <h1 class="card-heading">Networking</h1>
         </div>
         <p class="card-text">
@@ -50,7 +50,7 @@ return(
 
       <div class="information-card">
         <div class="information-card_header">
-        <i class="fa-duotone fa-laptop-mobile ieee-icons"></i>
+        <i class="fa-solid fa-microchip fa-3x"></i>
           <h1 class="card-heading">Stay Updated with Technology</h1>
         </div>
         <p class="card-text">
@@ -61,7 +61,7 @@ return(
 
       <div class="information-card">
         <div class="information-card_header">
-        <i class="fa-solid fa-book-bookmark ieee-icons"></i>
+        <i class="fa-solid fa-book-bookmark fa-3x"></i>
           <h1 class="card-heading">Career Resources</h1>
         </div>
         <p class="card-text">
@@ -72,7 +72,7 @@ return(
 
       <div class="information-card">
         <div class="information-card_header">
-        <i class="fa-sharp fa-solid fa-building-columns ieee-icons"></i>
+        <i class="fa-sharp fa-solid fa-building-columns fa-3x"></i>
           <h1 class="card-heading">Continuing Education</h1>
         </div>
         <p class="card-text">
@@ -83,7 +83,7 @@ return(
 
       <div class="information-card">
         <div class="information-card_header">
-        <i class="fa-light fa-badge-percent ieee-icons"></i>
+        <i class="fa-solid fa-tag fa-3x"></i>
           <h1 class="card-heading">Discounts</h1>
         </div>
         <p class="card-text">

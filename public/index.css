@@ -72,8 +72,8 @@
     background-color: #212529;
     padding: 4rem 8rem;
     display: grid;
-    grid-template-rows: 35rem 35rem 35rem;
-    grid-template-columns: 40rem 40rem;
+    grid-template-rows: 35rem 35rem;
+    grid-template-columns: 40rem 40rem 40rem ;
     justify-content: center;
     gap: 3rem;
   }
@@ -115,10 +115,7 @@
     align-items: center;
     gap: 2rem;
   }
-  .ieee-icons {
-    width: 2.5rem;
-    height: 2.5rem;
-  }
+  
   .information-card {
     display: grid;
     padding: 3rem;
