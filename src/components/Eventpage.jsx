@@ -21,17 +21,17 @@ function Eventpage() {
                     <td>
                       <div class="month">2022 Sept</div>
                       <div class="month-date-devider"></div>
-                      <div class="date">21</div>
+                      <div class="date">22</div>
                     </td>
                     <td class="title">AARAMBH- ROBOTICS WORKSHOP</td>
                   </tr>
                 </table>
               </div>
               <div class="col-lg-5 sec-2">
-                <img src="./images/Aarambh.png" />
+                <img src="./images/Aarambh.jpeg" />
               </div>
               <div class="col-lg-5 sec-3">
-                <div class="title"><Link aria-current="page" to="/aarambh">AARAMBH- ROBOTICS WORKSHOP</Link></div>
+                <div class="title">AARAMBH- ROBOTICS WORKSHOP</div>
                 <div class="venue">
                   <table>
                     <tr>
@@ -56,7 +56,7 @@ function Eventpage() {
                 </div>
                 <div class="sort-story">"For learning is Growth "</div>
                 <div class="group-of-btn">
-                  <a href="https://www.google.com" target="blank" class="btn book-ticket">Register Now</a>
+                  <a href="https://forms.gle/wgFrUQruqPmYfk6K7" target="blank" class="btn book-ticket">Register Now</a>
                 </div>
               </div>
             </div>
