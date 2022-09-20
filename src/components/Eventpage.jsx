@@ -23,7 +23,7 @@ function Eventpage() {
                       <div class="month-date-devider"></div>
                       <div class="date">21</div>
                     </td>
-                    <td class="title">AARAMBH- Tech workshop and hackathon</td>
+                    <td class="title">AARAMBH- ROBOTICS WORKSHOP</td>
                   </tr>
                 </table>
               </div>
@@ -31,16 +31,14 @@ function Eventpage() {
                 <img src="./images/Aarambh.png" />
               </div>
               <div class="col-lg-5 sec-3">
-                <div class="title"><Link aria-current="page" to="/aarambh">AARAMBH- Tech workshop and hackathon</Link></div>
+                <div class="title"><Link aria-current="page" to="/aarambh">AARAMBH- ROBOTICS WORKSHOP</Link></div>
                 <div class="venue">
                   <table>
                     <tr>
                       <td><i class="fa fa-map-marker"></i></td>
                       <td>
-                        <div>USICT, GGSIPU</div>
-                        <div class="dim-color">
-                          <a href="https://www.google.co.in" target="blank">Get Directions</a>
-                        </div>
+                        <div>Room E-109 USICT, GGSIPU</div>
+                        
                       </td>
                     </tr>
                   </table>
@@ -50,7 +48,7 @@ function Eventpage() {
                     <tr>
                       <td><i class="fa fa-clock-o"></i></td>
                       <td>
-                        <div>Saturday, Sept 21 2022</div>
+                        <div>Thursday, Sept 22 2022</div>
                         <div data-livestamp="1517054400" class="dim-color"></div>
                       </td>
                     </tr>
