@@ -1,8 +1,9 @@
 import React from "react";
+import Aboutpage from "../components/Aboutpage";
 
  function About() {
      return (
-         <div><h1>hello about</h1></div>
+         <div><Aboutpage /></div>
      )
  }
 

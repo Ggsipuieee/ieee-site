@@ -14,7 +14,7 @@ import {Link} from "react-router-dom";
                   <Link class="nav-link active" aria-current="page" to="/">Home</Link>
          </li>
          <li class="nav-item">
-           <Link class="nav-link" to="/#aboutus">About Us</Link>
+           <Link class="nav-link" to="/about">About Us</Link>
          </li>
          <li class="nav-item">
            <Link class="nav-link" to="/events">Events</Link>
